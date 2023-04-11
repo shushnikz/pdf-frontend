@@ -5,9 +5,8 @@ import {
     HomeOutlined,
     FileImageOutlined,
     LogoutOutlined,
-    UserOutlined,
 } from '@ant-design/icons';
-import { Button, Layout, Menu, theme } from 'antd';
+import { Layout, Menu, theme } from 'antd';
 import { Link } from 'react-router-dom';
 const { Header, Sider, Content } = Layout;
 

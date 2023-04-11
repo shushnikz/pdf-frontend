@@ -11,7 +11,6 @@ const App = () => {
 
   return (
     <div className="App">
-      {/* <div className="header">React sample</div> */}
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} />
